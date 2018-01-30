@@ -1,0 +1,7 @@
+Programming|SII|2|Dusan Medic|101
+Web Design|SII|3|Dusan Medic|102
+Statistics|IT|2|John Marks|103
+Networking|IT|1|John Marks|104
+English|IT|2|Mark Anthony|105
+English|SII|2|Mark Anthony|106
+Java|SII|3|John Marks|7
